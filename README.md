@@ -1,4 +1,7 @@
 ### Olá, eu sou Alane Dantas!👋
+<div style="text-align: center;">
+  <img src="https://github.com/AlaneDantass/AlaneDantass/assets/156969445/58cfea44-afd3-4c8f-a1eb-fc46d32ae907" width="100" height="100">
+</div>
 
 <div style="display: inline_block"><br>
   
@@ -9,9 +12,6 @@
 <img align="center" alt="Alane-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 <img align="center" alt="Alane-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-
-
 </div>
 
 
-<img src="https://github.com/AlaneDantass/AlaneDantass/assets/156969445/58cfea44-afd3-4c8f-a1eb-fc46d32ae907" width="350" height="350">
