@@ -44,7 +44,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 ## 📫 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/alane-evellyn-849925198" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
