@@ -1,24 +1,13 @@
 <h1 align="center">Olá 👋 Eu sou a Alane Dantas 💜</h1>
-
-<p align="center">
-  💻 Estudante de Programação <br>
-  🚀 Em constante evolução
-</p>
+Sou estudante apaixonada por tecnologia e estou construindo minha base em lógica de programação, Java e banco de dados.  
+Gosto de entender como as coisas funcionam por trás do código e estou sempre praticando e evoluindo minhas habilidades.
 
 <div align="center">
   <img src="https://github.com/AlaneDantass/AlaneDantass/assets/156969445/58cfea44-afd3-4c8f-a1eb-fc46d32ae907" width="120px" />
 </div>
 
----
 
-## 🌷 Sobre mim
-
-Sou estudante apaixonada por tecnologia e estou construindo minha base em lógica de programação, Java e banco de dados.  
-Gosto de entender como as coisas funcionam por trás do código e estou sempre praticando e evoluindo minhas habilidades.
-
----
-
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias
 
 <div align="center">
 
