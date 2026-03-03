@@ -19,17 +19,6 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 
 </div>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlaneDantass&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneDantass&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
 ## 📫 Onde me encontrar
 
 <div align="center">
@@ -41,3 +30,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/github-contribution-grid-snake.svg" />
+</p>
