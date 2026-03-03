@@ -6,9 +6,6 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
   <img src="https://github.com/AlaneDantass/AlaneDantass/assets/156969445/58cfea44-afd3-4c8f-a1eb-fc46d32ae907" width="120px" />
 </div>
 
-
-## 🚀 Tecnologias
-
 <div align="center">
 
 <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
@@ -31,6 +28,3 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
   </a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/github-contribution-grid-snake.svg" />
-</p>
