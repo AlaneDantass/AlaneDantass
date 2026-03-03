@@ -14,4 +14,5 @@
 
 </div>
 
-
+![Stats](URL_DO_GITHUB_STATS)
+![Linguagens](URL_DO_LANG_STATS)
