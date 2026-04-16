@@ -8,6 +8,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 </p>
 <br>
 <br>
+<br>
 
 ## Minhas Skills
 
