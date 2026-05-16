@@ -37,7 +37,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Contato: ⤵️
 </p>
 
 <p align="left">
