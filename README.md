@@ -35,15 +35,6 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 
 <br/>
 
-## 🎮 Game Contribuições (Pac-Man)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
-</picture>
-
-<br/>
 <p align="left">
   💌 Contato: ⤵️
 </p>
@@ -56,3 +47,11 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
+</picture>
