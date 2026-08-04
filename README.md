@@ -35,7 +35,15 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 
 <br/>
 
+## 🎮 Game Contribuições (Pac-Man)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
 <p align="left">
   💌 Contato: ⤵️
 </p>
