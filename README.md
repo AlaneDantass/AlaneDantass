@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋 Eu sou a Alane Dantas 💜</h1>
+<h1 align="left">Olá, eu sou a Alane Dantas </h1>
 
 <p align="left"> 
 Sou estudante de Ciência da Computação, apaixonada por tecnologia e focada no <b>Desenvolvimento Front-end</b>. <br> 
@@ -6,7 +6,7 @@ Tenho construído minha base prática com <b>React, TypeScript e JavaScript</b>,
 Gosto de entender como as coisas funcionam por trás do código e estou sempre praticando e evoluindo minhas habilidades!
 </p>
 
-## 🛠️ Minhas Skills
+## Minhas Skills
 
 **Front-end & Web**<br>
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
@@ -30,7 +30,7 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 
 <br/>
 
-## 💌 Contato: ⤵️
+## Contato: 
 
 <p align="left">
   <!-- Lembre-se de trocar "seuemail@gmail.com" pelo seu email real -->
