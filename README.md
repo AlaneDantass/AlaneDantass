@@ -29,24 +29,6 @@ Gosto de entender como as coisas funcionam por trás do código e estou sempre p
 
 <br/>
 
-## Contato: 
-
-<p align="left">
-  <!-- Lembre-se de trocar "seuemail@gmail.com" pelo seu email real -->
-  <a href="mailto:seuemail@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  
-  <!-- Link do LinkedIn já está corrigido! -->
-  <a href="https://www.linkedin.com/in/alane-dantas/" title="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  
-  <!-- Lembre-se de trocar "seuusuario" pelo seu @ do Instagram -->
-  <a href="https://www.instagram.com/seuusuario" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlaneDantass/AlaneDantass/output/pacman-contribution-graph.svg">
